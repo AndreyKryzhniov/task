@@ -1,0 +1,21 @@
+.App {
+    background-color: gainsboro;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*.size_input {*/
+/*    height: 40%;*/
+/*    background-color: aqua;*/
+/*}*/
+
+/*.size_output {*/
+/*    height: 60%;*/
+/*    background-color: red;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/

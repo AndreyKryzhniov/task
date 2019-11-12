@@ -1,0 +1,11 @@
+.wrapper {
+    height: 40vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 150px;
+}

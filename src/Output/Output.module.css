@@ -1,0 +1,16 @@
+.wrapper {
+    height: 60vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+textarea {
+    background-color: white;
+    border: 2px black;
+    resize: none;
+    border-radius: 5px;
+    height: 80%;
+    width: 80%;
+}
